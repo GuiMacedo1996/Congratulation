@@ -9,6 +9,6 @@
 <h3>Versão Desktop &#128187; </h3>
 <img src="https://github.com/GuiMacedo1996/Congratulation/blob/master/assets/desktop.png?raw=true">
 <br>
-<h3>Versão mobile &#128241; </h3>
+<h3>Versão Mobile &#128241; </h3>
 <img src="https://github.com/GuiMacedo1996/Congratulation/blob/master/assets/mobile.png?raw=true">
 
