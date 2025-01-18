@@ -74,11 +74,12 @@ p{
     .link{display: none;}
     
     div{
-        width: 100%;
+        width: 90%;
         height: 50%;
         padding: 0;
         margin: 0;
-    display: block;
+    display: table-cell
+
     }
 
     img{position: static;
@@ -86,7 +87,7 @@ p{
         margin: 0px 6px 5px 25px;
     }
 h1{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 700;
     line-height: 50px;
     width: auto;
@@ -94,7 +95,7 @@ h1{
     }
 
 p{  
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 400;
     line-height: 33px;
     width: auto;
@@ -106,5 +107,8 @@ p{
     margin: 0 auto;
     display: block;
 }
+.link-button{
+    margin: 62px;
+    display: block;
 }
 
